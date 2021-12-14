@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "250600280867",
+    "project_id": "notea-8eb32",
+    "storage_bucket": "notea-8eb32.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:250600280867:android:db0901aed8525cead97296",
+        "android_client_info": {
+          "package_name": "com.gonzalo.Notea"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "250600280867-dkpi7prr20htjq296kvg2emutb5dmh49.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gonzalo.Notea",
+            "certificate_hash": "504d6ee898977392f2024f10b3b2485dd67732c9"
+          }
+        },
+        {
+          "client_id": "250600280867-plnkhg8um6aokt4qjfhm5bpbv9bsvnsa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVk3qyxKTl4fDLfAoKgeHHaer-JVIZaL8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "250600280867-plnkhg8um6aokt4qjfhm5bpbv9bsvnsa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

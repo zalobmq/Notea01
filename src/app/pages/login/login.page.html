@@ -1,0 +1,19 @@
+
+ <!-- <img src="assets\pictures\fondoIONIC.png" class="img-fluid" style="position: absolute; right: 0; top: 0; z-index: -100; opacity: 0.75;">-->
+ <!--<ion-img src="/assets/pictures/fondoIONIC.png"></ion-img>-->
+ <div>
+  <ion-header>
+    <ion-toolbar>
+      <ion-title>login</ion-title>
+    </ion-toolbar>
+  </ion-header>
+
+  <ion-content >
+    <ion-button (click)="signin()">Sign in</ion-button>
+    <ion-card>
+      <ion-card-content>
+        {{userinfo | json}}
+      </ion-card-content>
+    </ion-card>
+  </ion-content>
+</div>
